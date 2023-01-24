@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "uprajnenie we/1.0.0": {
+        "runtime": {
+          "uprajnenie we.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uprajnenie we/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
